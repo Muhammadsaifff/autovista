@@ -1,4 +1,4 @@
-# Car App with Hero Animation
+# Autovista
 
 This Flutter application displays a list of popular cars with images and detailed descriptions. It features smooth navigation between the list and detail views using Flutter's `Hero` animation for visually appealing transitions.
 
@@ -22,7 +22,7 @@ This Flutter application displays a list of popular cars with images and detaile
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/Muhammadsaifff/car_app.git
+   git clone https://github.com/Muhammadsaifff/autovista.git
    cd car_app
 ```
 2. **Install dependencies:**
